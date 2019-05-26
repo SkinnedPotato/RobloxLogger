@@ -1,0 +1,10 @@
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\bin\Debug\RobloxLogger.exe.config
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\bin\Debug\RobloxLogger.exe
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\bin\Debug\RobloxLogger.pdb
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\bin\Debug\WebDriver.dll
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\bin\Debug\WebDriver.xml
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\obj\Debug\RobloxLogger.csprojAssemblyReference.cache
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\obj\Debug\RobloxLogger.csproj.CoreCompileInputs.cache
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\obj\Debug\RobloxLogger.csproj.CopyComplete
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\obj\Debug\RobloxLogger.exe
+C:\Users\sawsan\source\repos\RobloxLogger\RobloxLogger\obj\Debug\RobloxLogger.pdb
